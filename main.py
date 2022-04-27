@@ -293,14 +293,16 @@
 
 import math
 
-a = [1,2,3,4,4]
-a.insert(10, 2)
-print(a)
-a.remove(2)
-print(a)
-a.pop(3)
-print(a)
+# a = [1,2,3,4,4]
+# a.insert(10, 2)
+# print(a)
+# a.remove(2)
+# print(a)
+# a.pop(3)
+# print(a)
+#
+# print('Ayo I am making some changes to the main file in python, will Github show the changes???')
+#
+# print('Wow this is so cool!!!')
 
-print('Ayo I am making some changes to the main file in python, will Github show the changes???')
-
-print('Wow this is so cool!!!')
+print((5 < 10))
