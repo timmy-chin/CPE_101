@@ -21,12 +21,9 @@ elif 209426 <= income <= 523600:
 elif income >= 523601:
     bracket += '37%'
     tax = 157804.24 + (income - 523600) * 0.37
-
-
 if income >= 0:
     print("An income of", income, "places you in the", bracket, 'income bracket')
     print('The US Federal tax on a income of USD',income, 'is USD', tax, 'tax')
-
 else:
     print('Error, income must be a positive value')
 
