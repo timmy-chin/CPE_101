@@ -305,4 +305,35 @@ import math
 #
 # print('Wow this is so cool!!!')
 
-print((5 < 10))
+# print((5 < 10))
+#
+# my_list = [1,2,3,4]
+# new_list = my_list.copy()
+# my_list.append(5)
+#
+# print(new_list)
+# print(my_list)
+
+# list = [1,2,3,4,5]
+# list[0] = 10
+# print(list)
+
+# vector_dict = dict()
+# angle_dict = dict()
+#
+# n = int(input('Enter Number of Vectors: '))
+#
+# i = 0
+# while i < n:
+#     i+= 1
+#     vector_dict[f"Vector{i}"] = float(input(f'|V{i}| = '))
+#     angle_dict[f"Angle{i}"] = float(input(f'V{i} Angle: '))
+#
+# print(vector_dict)
+# print(angle_dict)
+#
+# print(vector_dict['Vector2'])
+
+list1 = [1,2,3,4,5,3,3,3,3]
+set = list(set(list1))
+print(set)

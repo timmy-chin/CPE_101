@@ -1,7 +1,7 @@
 def my_remove(element):
     global listA
-    while element in listA:
-        listA.remove(element)
+    listA = list(set(listA))
+    listA.remove(element)
 
 listA = []
 n = int(input('List Size: '))
