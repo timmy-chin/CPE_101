@@ -334,6 +334,32 @@ import math
 #
 # print(vector_dict['Vector2'])
 
-list1 = [1,2,3,4,5,3,3,3,3]
-set = list(set(list1))
-print(set)
+# list1 = [1,2,3,4,5,3,3,3,3]
+# set = list(set(list1))
+# print(set)
+
+# dictionary = dict()
+#
+# dictionary['Hello'] = 'Hi'
+# # print(dictionary)
+#
+# sequence = [1,2,3]
+# new_list = [ x for x in sequence if x % 2]
+#
+# print(new_list)
+#
+# my_dict = {1: 'dog', 2: 'cat', 3: 'python'}
+# new_list = [(number, animal) for number in my_dict for animal in my_dict.values() if my_dict[number] == animal]
+# print(new_list)
+#
+# position = ['a1','a2','a3']
+# char = ['king','queen','pong','a','b',1,2,3,4,5,6,7,8]
+#
+# new_list = {f'{n}{i+1}': char[i] for n in 'abcdefg' for i in range(12) if f'{n}{i+1}' == 'a2' }
+# print(new_list)
+while True:
+    cell_num = int(input('Enter: '))
+    col = cell_num // 5
+    row = cell_num - (5*col)
+    print(col)
+    print(row)

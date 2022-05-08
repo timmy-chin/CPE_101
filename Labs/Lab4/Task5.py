@@ -15,4 +15,6 @@ for i in range(150):
 print(f'\nHeads Count: {head}')
 print(f'Tails Count: {tail}')
 
+print(f'Probability for Head: {round((head / (head + tail))*100)}%')
+print(f'Probability for Tail: {round((tail / (head + tail))*100)}%')
 

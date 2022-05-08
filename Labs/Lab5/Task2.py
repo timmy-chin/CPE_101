@@ -5,10 +5,7 @@ def calculate_average(list):
     mark.sort()
     return sum / 5
 
-mark = []
-for i in range(5):
-    mark.append(int(input(f'Enter Mark for Student {i+1}: ')))
-
+mark = [int(input(f'Enter Mark for Student {i+1}: ')) for i in range(5)]
 
 
 print(f'Average Marks: {calculate_average(mark)}')
