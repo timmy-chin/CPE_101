@@ -18,7 +18,6 @@
 #     print('2. no')
 
 
-
 #     if c == a//b:
 #         print(a,"//", b)
 #         print("TRUE")
@@ -40,7 +39,7 @@
 #     print('It is an integer')
 
 
-#Using Comparison for Floor Division:
+# Using Comparison for Floor Division:
 # a = input('a')
 # b = input('b')
 # if str(float(a)) == a:
@@ -293,6 +292,7 @@
 
 import math
 
+
 # a = [1,2,3,4,4]
 # a.insert(10, 2)
 # print(a)
@@ -357,9 +357,57 @@ import math
 #
 # new_list = {f'{n}{i+1}': char[i] for n in 'abcdefg' for i in range(12) if f'{n}{i+1}' == 'a2' }
 # print(new_list)
-while True:
-    cell_num = int(input('Enter: '))
-    col = cell_num // 5
-    row = cell_num - (5*col)
-    print(col)
-    print(row)
+# while True:
+#     cell_num = int(input('Enter: '))
+#     col = cell_num // 5
+#     row = cell_num - (5*col)
+#     print(col)
+#     print(row)
+
+
+#
+
+
+# def bounce(ball):
+#     ball_type = ball
+#     ball = 'Beach'
+#     return ball_type
+#
+# ball = 'Bowling'
+#
+# print(bounce(ball))
+# print(ball)
+#
+
+# list = ['ball', 'hello']
+# list.remove('Bro')
+# color = 'Red'
+# class Ball:
+#     def __init__(self, x=0, y=0):
+#         self.x = x
+#         self.y = y
+#         self.color = 'Deep' + color
+#     def Name(self):
+#         self.name = input('Enter Name: ')
+#
+#     def greet(self):
+#         print(f"{self.x} and {self.y} and {self.color}")
+#
+#
+#
+#
+# if __name__ == '__main__':
+#     mypoint = Ball()
+#     mypoint.greet()
+#     mypoint.Name()
+#     print(mypoint.name)
+#     mypoint2 = Ball()
+#     mypoint2.Name()
+#     print(mypoint2.name)
+
+
+for i in range(10):
+    exec()
+
+
+

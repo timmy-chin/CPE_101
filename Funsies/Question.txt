@@ -1,0 +1,31 @@
+What type of bonding is found in the following compound? NH4NO3 \na) Ionic \nb) Covalent \nc) Metallic
+[Include Picture} Is the following a valid Lewis structure (other than lone pairs not all being drawn explicitly)?  If not, make sure you know what is wrong with it and how you could fix it. \na) Valid \nb) Invalid
+Draw a Lewis structure for CH3NH2.  Include all nonbonding valence electrons (lone pairs). You may include all hydrogens explicitly or you may do a line-angle drawing.
+<Include Pic> Write the molecular formula for the following molecule.  Use the format CxHy
+<Include Pic> Do the following two structure represent isomers? \na) Yes \nb) No
+<Include Pic> Identify the oxygen-containing functional group in the following molecule. \na) aldehyde \nb) ketone \nc) alcohol \nd) carboxylic acid \ne) ether \nf) ester
+<Include Pic> Give the overall charge on the ion
+<Include Pic> How many closed-shell (full octet) resonance contributors can you draw for the following ion (formal charges not listed)?  You should include the structure below as one of the resonance contributors.
+<Include Pic> What do the following molecules represent \na) Isomers \nb) Resonance Structures \nc) Both isomers and resonance structures \nd) Neither isomers nor resonance structures
+Which of the following can exceed the octet?  Select all that apply. \na) C \nb) N \nc) O \nd) F \ne) Ne \nf) P \ng) S \ne) Cl \nf) Br
+Draw an isomer of C6H10O2 that contains an ester
+Enter the molecular shape around the central atom(s) for C2H4 \na) linear \nb) bent \nc) trigonal planar \nd) trigonal pyramidal \ne) tetrahedral
+Select all of the following that have permanent dipole moments (i.e., they are polar). \na) BCl3 \nb) PCl3 \nc) CH3OCH3 (an ether) \nd) C3H8
+What intermolecular forces are present in a liquid sample of CH3COCH3?  Select all that apply. \na) London Dispersion Forces \nb) Dipole-Dipole Interactions \nc) Hydrogen Bonding
+Consider the following molecules.  Which do you expect to have the highest boiling point? \na) CH3OCH3 \nb) CH3CH2OH \nc) They should be nearly identical
+Which molecule is more polar? \na) CH3Cl \nb) CH3Br \nc) Both are nonpolar. \nd) Their polarities are identical.
+<Include Pic> Rank the following molecules from lowest boiling point to highest boiling point.
+Predict whether a solid forms when a solution containing Fe3+(aq) ions is mixed with another solution containing Cl−(aq) ions.  The solubility rules on the Equation Sheet will help. \na) Precipicate Forms \nb) No Reaction
+Which of the following solid compounds will NOT dissolve if added to water? \nA) ammonium carbonate\nB) ammonium iodide\nC) Neither will dissolve\nD) Both will dissolve
+You mix an aqueous solution of potassium perchlorate into a solution of zinc perchlorate. Predict whether a reaction happens and give the chemical name for the solid that is formed.
+Give the oxidation state on the nitrogen in AgNO3
+Identify the element oxidized in the following unbalanced reaction:\nMg+HCl→MgCl2+H2\na) Mg\nb) H\nc) Cl \nc) Nothing
+Classify the following unbalanced reaction.  Make sure you can balance it as well.\nHCl(aq)+K2CO3(aq)→CO2(g)+KCl(aq)+H2O(l)\na) precipitation\nb) oxidation-reduction\nc) acid-base neutralization\nd) no reaction
+Consider the following (unbalanced) reaction:\n\nC6H12O6(s)→C2H6O(l)+CO2(g)\n\nHow many grams of CO2(g) are produced when 36 grams of C6H12O6(s)  reacts?
+Copper reacts with dilute nitric acid according to the following unbalanced equation:\n\nCu(s)+HNO3(aq)→Cu(NO3)2(aq)+NO2(g)+H2O(l)\n\nIf a copper penny weighing 3.045 g is dissolved in a small amount of nitric acid and the resulting solution is diluted to 50.00 mL with water, what is the molarity of the Cu(NO3)2 in the solution?
+A 50.00 mL sample of 0.250 M solution of ammonium carbonate is mixed with 60.0 mL of a 0.300 M silver nitrate solution. How many grams of precipitate are produced?
+Consider the following unbalanced reaction.\n\nCaCO3+HCl→CaCl2+CO2+H2O\n\nWhat mass (g) of excess reagent remains when 20.0 g CaCO3 reacts with 20.0 g HCl?
+You put 14.0 g of sodium chloride into a beaker and fill it to the 200 mL mark with deionized water.  You then pour in 100.0 mL of 2.0 M silver nitrate. What additional quantity (g if NaCl, mL if AgNO3) should be added to use up the excess reagent?
+A 2.00 g sample of ammonia (NH3) reactants with 4.00 g of oxygen to form nitrogen monoxide and water.  All of the reactants and products are gases. If 1.0 g of water is produced, what is the percent yield?
+Consider the following unbalanced reaction.\n\nC4H8+O2→CO2+H2O\n\nC4H8 was combusted in excess oxygen and 22.0 g of CO2 was recovered. If this was a percent yield of 85%, what mass of C4H8 was originally combusted?
+When you look at a balanced reaction, you know that the limiting reactant will always be the reactant with the smaller balancing coefficient.\na) True\nb) False

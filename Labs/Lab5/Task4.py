@@ -1,3 +1,5 @@
+import math
+
 def factorial(i):
     factorial = 1
     for n in range(i):
@@ -12,3 +14,7 @@ def my_exp(x):
         result += (Numerator/Denominator)
     return round(result,3)
 
+print(math.factorial(5))
+print(factorial(5))
+print(0/math.factorial(0))
+print(my_exp(3))
