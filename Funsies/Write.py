@@ -1,0 +1,17 @@
+# file = open('TestFile.txt', 'a')
+# print(file.write('Goodbye'))
+# file.close()
+
+file = open('TestFile.txt', 'r')
+line1 = file.readline()
+print(line1)
+print(len(line1))
+print(file.tell())
+line2 = file.readline()
+print(line2)
+print(len(line2))
+print(file.tell())
+file.seek(50,0)
+print(file.tell())
+print(file.readline())
+

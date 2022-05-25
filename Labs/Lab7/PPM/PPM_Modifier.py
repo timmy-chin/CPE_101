@@ -58,7 +58,7 @@ Prime_RGB = list(RGB)
 
 for i in range(3, len(Prime_RGB)):
     for RGB in Prime_RGB[i]:
-        RGB[0] = str(0)
+        RGB[1] = str(0)
 
 for i in range(3, len(Prime_RGB)):        #Convert to Writeable Format
     join_str = [' '.join(RGB) for RGB in Prime_RGB[i]]
@@ -66,7 +66,7 @@ for i in range(3, len(Prime_RGB)):        #Convert to Writeable Format
     join_str = ' '.join(join_str)
     Prime_RGB[i] = join_str
 
-with open('TextFiles/Prime_PPM.txt', 'w') as file:
+with open('TextFiles/Prime_PPM.ppm', 'w') as file:
     for word in Prime_RGB:
         file.write(word)
 

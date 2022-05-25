@@ -406,8 +406,32 @@ import math
 #     print(mypoint2.name)
 
 
-for i in range(10):
-    exec()
+# for i in range(10):
+#     exec()
+
+
+def add():
+    return a+b
+
+class list:
+    def __init__(self,list):
+        self.list = list
+        pass
+
+    def __repr__(self):
+        return self.list
+
+list_num = list([1,2,3,4,5,5,6,7,8,9])
+
+
+
+
+a = 1
+b = 2
+
+
+
+print(add())
 
 
 
