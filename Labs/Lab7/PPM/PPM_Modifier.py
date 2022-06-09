@@ -1,8 +1,6 @@
 with open('TextFiles/PPM_OG.txt', 'r') as file:
     RGB = [word for word in file]
 
-file.close()
-
 for i in range(3, len(RGB)):            #Group RGB values into list
     list_num = RGB[i].split()
     grouped_list = [list_num[i:i+3] for i in range(0,len(list_num), 3)]
@@ -27,8 +25,6 @@ with open('TextFiles/Negated_PPM.txt', 'w') as file:
     for word in Negated_RGB:
         file.write(word)
 
-file.close()
-
 
 #Modify 2: Grayscale
 
@@ -47,8 +43,6 @@ for i in range(3, len(Grayscale_RGB)):        #Convert to Writeable Format
 with open('TextFiles/Grayscale_PPM.txt', 'w') as file:
     for word in Grayscale_RGB:
         file.write(word)
-
-file.close()
 
 
 
@@ -69,8 +63,6 @@ for i in range(3, len(Prime_RGB)):        #Convert to Writeable Format
 with open('TextFiles/Prime_PPM.ppm', 'w') as file:
     for word in Prime_RGB:
         file.write(word)
-
-file.close()
 
 
 
